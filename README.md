@@ -41,7 +41,7 @@
 
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+“Responsive Web Design always plays an important role whenever going to promote your website.”  - Josh Wilson
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alok-Yadav&icon=0&color=0)](https://visitcount.itsvg.in)
