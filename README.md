@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Alok Yadav</h1>
 <h3 align="center">An Aspiring Front End Web Developer from Uttar Pradesh, India</h3>
 
-<div ><img src="https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/front_end/hero_image-22813726def3da7ae43732aa40d92b8e2b10c1fdc67f80c4be5973393eba5f71.svg" width="100%" height="300px"></div>
+<div ><img src="https://media.istockphoto.com/id/1167600197/es/vector/concepto-de-banner-web-de-desarrollo-front-end.jpg?s=170667a&w=0&k=20&c=bi71QKeiRl2sIh8T7Fg0LhC3_bVtZ3vkt8v4XaReyU4=" width="100%" height="300px"></div>
                                                                                   
 #
 
@@ -36,7 +36,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Alok-Yadav&show_icons=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alok-Yadav&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Yadav&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
@@ -44,5 +44,5 @@
 “Responsive Web Design always plays an important role whenever going to promote your website.”  - Josh Wilson
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Alok-Yadav&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
