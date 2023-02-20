@@ -9,8 +9,8 @@
 # 💫About Me 
 •🌱 I’m Front End Web Developer <br>
 • 📫 How to reach me -  aloky.abn@gmail.com <br>
-• 👨‍💻 All of My Projects are available at - [PORTFOLIO][()]<br>
-• 📄 Know about My Experiences - [RESUME]()
+• 👨‍💻 All of My Projects are available at - [PORTFOLIO](https://aloknet.netlify.app/)<br>
+• 📄 Know about My Experiences - [RESUME](https://github.com/alok1910010/Portfolio/blob/main/src/Assets/Alok_Yadav.pdf)
 
 
 
